@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap'); 
+
+.Add-properties-title{
+    font-family: 'Nanum Gothic';
+    font-size: 1.8rem;
+    color: black;
+    text-transform: uppercase;
+    font-weight: lighter;
+    border-bottom: black solid 2px;
+    width: 13.5rem;
+    line-height: 3rem;
+    margin: 20px
+}
