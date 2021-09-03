@@ -11,5 +11,6 @@ test('Contains Surreal Estate Text', () => {
   render(<App />)
   const linkElement = screen.getByText(/Surreal Estate/i)
   expect(linkElement).toBeInTheDocument()
-})
+});
+
 })
